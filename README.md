@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Munib Mawaz</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Munib Nawaz</h1>
 <h3 align="center">"Passionate About Web Application Security and Digital Forensics"</h3>
 
 - 📫 How to reach me **muneebnawaz3849@gmail.com**
